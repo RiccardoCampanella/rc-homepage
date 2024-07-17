@@ -21,7 +21,7 @@ repository               : "Riccardo-Campa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gihub_portfolio_foto.JPG"
+  avatar           : "/images/gihub_portfolio_foto.JPG"
   name             : "Riccardo Campanella"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning"
