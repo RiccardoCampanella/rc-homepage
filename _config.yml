@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Riccardo's Homepage"
 title_separator          : "-"
 name                     : &name "Riccardo Campanella"
 description              : &description "I am an AI Master's student passionate about learning to program machines and developing human-centered algorithms"
 url                      : https://riccardocampanella.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "RiccardoCampanella/Riccardo-Campa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Riccardo Campanella"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning"
-  location         : "Netherlands"
+  location         : "Utrecht, Netherlands"
   employer         : "Utrecht University"
   uri              : # URL
   email            : "riccardocampanella.ing@gmail.com" 
