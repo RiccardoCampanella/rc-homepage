@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of object recognition](/images/walle-cube.png){: .align-right width="300px"}
+![Illustration of object recognition](/images/walle-cube2.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm learning to program machines and develop human-centered algorithms by leveraging Machine learning and Deep learning approaches to solve real-world complex problems!
@@ -23,13 +23,13 @@ redirect_from:
 ## 🤖 Challenges
 I have experience contributing to [Predictive troubleshooting for medical devices](https://eit-innovaid.eu/hackathon-challenge-d-predicting-troubleshooting-for-medical-devices/) an hackathon project for the Utrecht Medical Center for preventing infusion pumps from breaking using NLP with Neural approaches.
 
-I am currently working on a project in for Improving Water level prediction using Exogenous variables using Neural approaches as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
+I am currently working on a project in for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
 
 ## 📜 Reimplementing and Reproducing Papers
 I have implemented the paper Word2vec and reproduced the original results by running an tracking experiments.
 Feel free to look at my specific [portfolio entry]().
 
-I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://github.com/danieleavitabile/numerical-analysis-mathematical-neuroscience?tab=readme-ov-file) taught by the Professor D.Avitabile at the Utrecht University. 
+I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://github.com/danieleavitabile/numerical-analysis-mathematical-neuroscience?tab=readme-ov-file) taught by the PhD D.Avitabile at the Utrecht University. 
 
 ## 👨🏻‍🔬 Professional Experience
 I have professional experience working as an **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
