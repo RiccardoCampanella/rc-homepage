@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](walle-cube.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](walle-cube.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm applying Machine learning and Deep learning to solve real-world complex problems! I'm learning to program machines and develop human-centered algorithms

@@ -21,7 +21,7 @@ repository               : "RiccardoCampanella/rc-homepage"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "avatar.png"
   name             : "Riccardo Campanella"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and DeepLearning"
