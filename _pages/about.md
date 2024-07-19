@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of object recognition](/images/walle-cube2.png){: .align-right width="300px"}
+![Illustration of object recognition](/images/walle_cube2.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm learning to program machines and develop human-centered algorithms by leveraging Machine learning and Deep learning approaches to solve real-world complex problems!
@@ -33,5 +33,5 @@ I have implemented the tutorials from the masterclass [Numerical and Analytical 
 
 ## 👨🏻‍🔬 Professional Experience
 I have professional experience working as an **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
-I mainly worked to solve AI challenges and developed components for Fintech and Booking companies.  
+I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
 
