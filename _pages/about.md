@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of object recognition](/images/walle_cube2.png){: .align-right width="300px"}
+![Illustration of object recognition](/images/walle_cube3.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm learning to program machines and develop human-centered algorithms by leveraging Machine learning and Deep learning approaches to solve real-world complex problems!
