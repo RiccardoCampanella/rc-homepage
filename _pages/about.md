@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "👋🏼 Hello there, I'm Riccardo!"
