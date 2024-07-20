@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there, I'm Riccardo!"
-excerpt: "About me"
+excerpt: "<img src='/images/walle_cube3.png' alt='Illustration of object recognition' style='width: 300px; float: right;'/> About me"
 author_profile: true
 redirect_from: 
   - /about/
