@@ -10,10 +10,10 @@ redirect_from:
 
 
 
-![Illustration of object recognition](/images/walle_cube3.png){: .align-right width="600px"}
+![Illustration of object recognition](/images/walle_cube3.png){: .align-right}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
-🔬 I'm learning to program machines and develop human-centered algorithms by leveraging Machine learning and Deep learning approaches to solve real-world complex problems!
+🔬 I'm learning to solve real-world complex problems by programming machines and developing human-centered algorithms that use Machine learning and Deep learning approaches
 
 📚 I'm currently working towards my Master's studies and defining my Master's thesis starting in the Winter 2024.
 
@@ -21,9 +21,9 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Challenges
-I have experience contributing to [Predictive troubleshooting for medical devices](https://eit-innovaid.eu/hackathon-challenge-d-predicting-troubleshooting-for-medical-devices/) an hackathon project for the Utrecht Medical Center for preventing infusion pumps from breaking using NLP with Neural approaches.
+I have experience contributing to [Predictive troubleshooting for medical devices](https://eit-innovaid.eu/hackathon-challenge-d-predicting-troubleshooting-for-medical-devices/), an hackathon project at the Utrecht Medical Center, for preventing infusion pumps from breaking using NLP with Neural approaches.
 
-I am currently working on a project in for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
+I am currently working on a project for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
 
 ## 📜 Reimplementing and Reproducing Papers
 I have implemented the paper Word2vec and reproduced the original results by running an tracking experiments.
