@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋🏼 Hello there, I'm Riccardo!"
-excerpt: "<img src='/images/walle_cube3.png' alt='Illustration of object recognition' style='width: 300px; float: right;'/> About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of object recognition](/./images/walle_cube3.png){: .align-right width="300px"}
+![Illustration of object recognition](https://github.com/RiccardoCampanella/rc-homepage/tree/master/images/walle_cube3.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm learning to solve real-world complex problems by programming machines and developing human-centered algorithms that use Machine learning and Deep learning approaches
