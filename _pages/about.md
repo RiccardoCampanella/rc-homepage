@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
+<img src="/images/walle_cube3.png"
+     alt="Illustration of object recognition"
+     style="float: right; width: 300px; margin-left: 10px;" />
 
 ![Illustration of object recognition](https://github.com/RiccardoCampanella/rc-homepage/tree/master/images/walle_cube3.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
