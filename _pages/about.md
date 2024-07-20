@@ -1,5 +1,5 @@
 ---
-permalink: /rc-homepage
+permalink: /
 title: "👋🏼 Hello there, I'm Riccardo!"
 excerpt: "About me"
 author_profile: true
@@ -14,7 +14,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
 
-🔬 I'm learning to solve real-world complex problems by programming machines and developing human-centered algorithms that use Machine learning and Deep learning approaches
+🔬 I'm learning to solve real-world complex problems by programming machines and developing human-centered algorithms that leverage Machine learning and Deep learning.
 
 📚 I'm currently working towards my Master's studies and defining my Master's thesis starting in the Winter 2024.
 
