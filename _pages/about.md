@@ -36,3 +36,5 @@ I have implemented the tutorials from the masterclass [Numerical and Analytical 
 I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
 I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
 
+## 🤝 Groups and Activities
+I have joined the AI Safety Group in the Netherlands and, after completing the course [AI Safety Foundamentals](https://aisafetyfundamentals.com/alignment/) (2023 and 2024), I'm interested in working on the Alignment problems, whether it is about goal misgeneralization, reward mispecification, interpretability or privacy issues. In the final project for the prevoius cohort of AISF I have successfully showed how a DQN agent learns to play a game and misgeneralizes by carrying a misalligned behaviour using proxy features to achieve its goal.
