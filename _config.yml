@@ -12,7 +12,7 @@ title                    : "Riccardo's Homepage"
 title_separator          : "-"
 name                     : &name "Riccardo Campanella"
 description              : &description "I am an AI Master's student passionate about learning to program machines and developing human-centered algorithms"
-url                      : https://riccardocampanella.github.io/rc-homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://riccardocampanella.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/rc-homepage" # the subpath of your site, e.g. "/blog"
 repository               : "RiccardoCampanella/rc-homepage"
 
