@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /rc-homepage
 title: "👋🏼 Hello there, I'm Riccardo!"
 excerpt: "About me"
 author_profile: true
