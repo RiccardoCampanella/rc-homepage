@@ -1,6 +1,6 @@
 ---
 title: "Numerical and Analytical methods for spatially-extended neurobiological networks"
-excerpt: "Implementation of tutorials from teh masterclass for the CCSS at the Utrecht University"
+excerpt: "Implementation of tutorials from a neuroscience masterclass for the CCSS at the Utrecht University"
 collection: portfolio
 ---
 
