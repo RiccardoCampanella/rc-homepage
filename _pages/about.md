@@ -25,9 +25,9 @@ I have experience contributing to [Predictive troubleshooting for medical device
 I am currently working on a project for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
 
 ## 📜 Reimplementing and Reproducing Papers
-I have implemented a small scale variant of the paper Glove, as part of a university coursework, and validated the learned embeddings through their similarity. Feel free to look at my specific [portfolio entry](https://github.com/RiccardoCampanella/MLHVL_Language/tree/main).
+I have implemented a small scale variant of the paper Glove and validated the learned embeddings through their similarity. Feel free to look at my specific [portfolio entry](https://riccardocampanella.github.io/rc-homepage/portfolio/mlhvl_glove/).
 
-I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks]() taught by the PhD D.Avitabile at the Utrecht University. 
+I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://riccardocampanella.github.io/rc-homepage/portfolio/ccss_neuroscience/) taught by the PhD D.Avitabile at the Utrecht University. 
 
 ## 👨🏻‍🔬 Professional Experience
 I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
