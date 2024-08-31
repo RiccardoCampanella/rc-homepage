@@ -4,8 +4,6 @@ excerpt: "Implementation of a Two-stream network for classifying actions"
 collection: portfolio
 ---
 
-# Action Recognition in Still Images and Videos
-
 ## Project Overview
 
 This project focuses on performing action classification in still images and videos using Convolutional Neural Networks (CNNs). We implement a Two-stream network architecture, combining spatial and temporal information for improved action recognition.

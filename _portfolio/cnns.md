@@ -4,8 +4,6 @@ excerpt: "Implementation and optimization of LeNet variants"
 collection: portfolio
 ---
 
-# CNN Architecture Optimization for FashionMNIST Classification
-
 ## Project Overview
 
 This project focuses on the iterative improvement of Convolutional Neural Network (CNN) architectures, specifically variants of the LeNet-5 model, for image classification using the FashionMNIST dataset.
