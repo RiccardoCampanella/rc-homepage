@@ -8,4 +8,4 @@ collection: portfolio
 
 # University Projects
 
-Implementations will be available soon! You can Check the CV for more info.
+Computer Vision implementations are out! You can Check the CV for other projects info.
