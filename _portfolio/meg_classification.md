@@ -77,6 +77,11 @@ Both the GRU model and ViViT use attention mechanisms, but they differ in severa
 
 The ViViT attention mechanism may be more suitable for capturing complex spatiotemporal patterns across the entire brain in MEG data, while GRU attention could be more focused on temporal dynamics within specific regions.
 
+---
+## Resources
+
+- **Code Repository**: [GitHub - Deep Learning](https://github.com/RiccardoCampanella/Deep_Learning)
+- **Course**: Computer Vision at Utrecht University
 
 ---
 
