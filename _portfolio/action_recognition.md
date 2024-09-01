@@ -1,6 +1,8 @@
 ---
 title: "Action Recognition in Still Images and Videos"
 excerpt: "Implementation of a Two-stream network for classifying actions"
+tags: [ComputerVision, DeepLearning, ActionRecognition, CNN, TwoStreamNetwork, OpticalFlow, 
+TransferLearning, PyTorch, OpenCV, HMDB51, Stanford40, Finetuning, DataFusion]
 collection: portfolio
 ---
 

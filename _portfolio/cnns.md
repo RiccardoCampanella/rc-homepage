@@ -1,6 +1,7 @@
 ---
-title: "CNN Architecture Optimization for FashionMNIST Classification"
-excerpt: "Implementation and optimization of LeNet variants"
+title: "CNN Architecture Optimization"
+excerpt: "Implementation and optimization of LeNet variants for FashionMNIST Classification"
+tags: [DeepLearning, CNN, LeNet, FashionMNIST, PyTorch, ArchitectureOptimization, ComputerVision, MachineLearning, WeightsAndBiases, ImageClassification]
 collection: portfolio
 ---
 

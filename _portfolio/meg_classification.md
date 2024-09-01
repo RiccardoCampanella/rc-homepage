@@ -1,6 +1,7 @@
 ---
-title: "MEG Data Analysis Using Deep Learning"
+title: "MEG Data Analysis using Deep Learning"
 excerpt: "Exploring VisionTransformers and RNNs for brain state classification"
+tags: [AttentionMechanism, BrainStateClassification, Neuroimaging, SupervisedLearning, Transformers, RNNs, DataProcessing, IntraCrossPatientTraining, DeepLearning, MEG]
 collection: portfolio
 ---
 
