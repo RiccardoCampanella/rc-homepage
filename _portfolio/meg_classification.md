@@ -85,6 +85,3 @@ The ViViT attention mechanism may be more suitable for capturing complex spatiot
 - **Course**: Computer Vision at Utrecht University
 
 ---
-
-#AttentionMechanism #BrainStateClassification #Neuroimaging #SupervisedLearning 
-#Transformers #RNNs #DataProcessing #IntraCrossPatientTraining #DeepLearning #MEG

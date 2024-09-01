@@ -50,6 +50,3 @@ By combining a DeepCNN for object recognition from still images with motion data
 - **Course**: Computer Vision at Utrecht University
 
 ---
-
-#ComputerVision #DeepLearning #ActionRecognition #CNN #TwoStreamNetwork #OpticalFlow 
-#TransferLearning #PyTorch #OpenCV #HMDB51 #Stanford40 #Finetuning #DataFusion

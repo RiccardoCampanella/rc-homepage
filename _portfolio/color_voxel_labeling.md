@@ -5,8 +5,6 @@ tags: [ComputerVision, 3DReconstruction, Clustering, ColorModeling, RealTimeTrac
 collection: portfolio
 ---
 
-# 3D Voxel-based Person Tracking
-
 ## Project Overview
 
 This project aims to develop a robust system for multi-person tracking using 3D voxel reconstruction and color modeling. The system operates in two phases: an offline phase for creating personalized color models, and an online phase for real-time tracking and labeling.
@@ -61,5 +59,3 @@ This project aims to develop a robust system for multi-person tracking using 3D 
 - [Demo Video](https://drive.google.com/file/d/1IP3RUehhRxGeZmYhYHIlPANqkQXWf8xw/view)
 
 ---
-
-#ComputerVision #3DReconstruction #Clustering #ColorModeling #RealTimeTracking #VoxelAnalysis #OpenCV, #Matplot3D, #Scipy, #OOP

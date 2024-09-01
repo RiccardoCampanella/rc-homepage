@@ -46,6 +46,3 @@ This project focuses on the iterative improvement of Convolutional Neural Networ
 - **Course**: Computer Vision at Utrecht University
 
 ---
-
-#DeepLearning #CNN #LeNet #FashionMNIST #PyTorch #ArchitectureOptimization 
-#ComputerVision #MachineLearning #WeightsAndBiases #ImageClassification
