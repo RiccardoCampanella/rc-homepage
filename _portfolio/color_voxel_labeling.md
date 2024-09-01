@@ -56,6 +56,6 @@ This project aims to develop a robust system for multi-person tracking using 3D 
 ## Resources
 
 - [Project Repository](https://github.com/RiccardoCampanella/Computer_Vision/tree/main/color-based_voxel_labeling)
-- [Demo Video](https://drive.google.com/file/d/1IP3RUehhRxGeZmYhYHIlPANqkQXWf8xw/view)
+- [Demo Video](https://drive.google.com/file/d/1wQRHP-e1hsf_yXJwDukNKdG5ZmKvXHoO/view?usp=drive_link)
 
 ---
