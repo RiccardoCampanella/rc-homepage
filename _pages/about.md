@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm a first year Master's student in Artificial Intelligence at the Utrecht University.
+👨🏻‍💻 I'm a second year Master's student in Artificial Intelligence at the Utrecht University.
 
 🔬 I'm learning to solve real-world complex problems by programming machines and developing human-centered algorithms that leverage Machine learning and Deep learning.
 
