@@ -1,11 +1,13 @@
 ---
-Title: "Explainability in Machine Learning: A Study on Personality Predictions"
-Excerpt: "Exploring various models for job interview invitation predictions using explainability techniques"
-Tags: [MachineLearning, PersonalityPrediction, Explainability, JobInterviews, LinearModels, XGBoost, DataProcessing, ModelInterpretation]
-Collection: Portfolio
+title: "Explainability in Machine Learning: A Study on Personality Predictions"
+excerpt: "Exploring various models for job interview invitation predictions using explainability techniques"
+tags: [MachineLearning, PersonalityPrediction, Explainability, JobInterviews, LinearModels, XGBoost, DataProcessing, ModelInterpretation]
+collection: portfolio
 ---
 
+
 ## Project Overview
+
 This project aims to apply explainability techniques to predict job interview invitations based on personality scores from the ChaLearn LAP-FI dataset. The goal is to explore different machine learning models and analyze their interpretability to provide insights into model behavior and decision-making processes.
 
 ## Key Components
