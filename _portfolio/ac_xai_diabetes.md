@@ -14,9 +14,9 @@ This project aims to identify and analyze factors contributing to the readmissio
 
 ## Project Poster
 
-[![Project Poster](Diabetes_Research_poster.jpg)](Diabetes_Research_poster.pdf)
+[![Project Poster](https://riccardocampanella.github.io/rc-homepage/images/Diabetes_Research_poster.jpg)](https://riccardocampanella.github.io/rc-homepage/files/Diabetes_Research_poster.pdfDiabetes_Research_poster.pdf)
 
-[Download Project Poster (PDF)](Diabetes_Research_poster.pdf)
+[Download Project Poster (PDF)](https://riccardocampanella.github.io/rc-homepage/files/Diabetes_Research_poster.pdfDiabetes_Research_poster.pdf)
 
 ## Key Components
 
