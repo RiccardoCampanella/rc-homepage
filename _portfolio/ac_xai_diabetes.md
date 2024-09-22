@@ -14,9 +14,9 @@ This project aims to identify and analyze factors contributing to the readmissio
 
 ## Project Poster
 
-[![Project Poster](Diabetes Research poster A1.jpg)](Diabetes Research poster A1.pdf)
+[![Project Poster](Diabetes_Research_poster.jpg)](Diabetes_Research_poster.pdf)
 
-[Download Project Poster (PDF)](Diabetes Research poster A1.pdf)
+[Download Project Poster (PDF)](Diabetes_Research_poster.pdf)
 
 ## Key Components
 
