@@ -1,5 +1,5 @@
 ---
-title: "Explaining Readmission of Diabetes Patients with Explainable Machine Learning Methods"
+title: "(XAI) Explaining Readmission of Diabetes Patients"
 excerpt: "Analyzing factors contributing to diabetes patient readmissions using various explainable AI techniques"
 tags: [MachineLearning, ExplainableAI, HealthcareAnalytics, DiabetesReadmission, RuleFit, BayesianNetworks, ExplainableBoostingMachine, NeuralNetworks, SHAP]
 collection: portfolio
@@ -11,6 +11,12 @@ This project aims to identify and analyze factors contributing to the readmissio
 
 1. What factors contribute most over time to a diabetes patient being readmitted?
 2. What general features influence readmission risk in diabetic patients?
+
+## Project Poster
+
+[![Project Poster](Diabetes Research poster A1.jpg)](Diabetes Research poster A1.pdf)
+
+[Download Project Poster (PDF)](Diabetes Research poster A1.pdf)
 
 ## Key Components
 
