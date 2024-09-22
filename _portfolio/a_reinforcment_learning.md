@@ -1,6 +1,6 @@
 ---
 
-title: "RL | Exploration of Reinforcement Learning Algorithms"
+title: "(RL) Exploration of Reinforcement Learning Algorithms"
 excerpt: "Implementing Epsilon-Greedy, Semi-Grad SARSA, and Q-Learning for solving multi-armed bandit and episodic MDP tasks"
 tags: [ReinforcementLearning, EpsilonGreedy, SemiGradientSARSA, QLearning, MultiArmedBandit, FunctionApproximation, OnPolicy, OffPolicy, ExplorationExploitation, OpenAIGym]
 collection: portfolio

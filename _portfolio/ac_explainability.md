@@ -1,5 +1,5 @@
 ---
-title: "Explainability in Machine Learning: A Study on Personality Predictions"
+title: "(XAI) A Study on Personality Predictions"
 excerpt: "Exploring various models for job interview invitation predictions using explainability techniques"
 tags: [MachineLearning, PersonalityPrediction, Explainability, JobInterviews, LinearModels, XGBoost, DataProcessing, ModelInterpretation]
 collection: portfolio

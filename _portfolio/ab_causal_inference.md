@@ -1,5 +1,5 @@
 ---
-title: "Causal Inference | Predicting Intervention Results & PC Algorithm"
+title: "(CI) Predicting Intervention Results & PC Algorithm"
 excerpt: "Exploring structural causal models and the PC algorithm for causal discovery"
 tags: [CausalInference, SCM, PCAlgorithm, Interventions, DataGeneration]
 collection: portfolio
