@@ -23,7 +23,7 @@ I worked for Improving Water level prediction using Exogenous variables and Neur
 
 ## 📜 Reimplementing and Reproducing Papers
 # Natural Language Processing
-Developed a variant of the paper [Finding Deceptive Opinion Spam by Any Stretch of the Imagination](https://arxiv.org/abs/1107.4557) for my [Data Mining course project](https://riccardocampanella.github.io/rc-homepage/portfolio/mlhvl_glove/).
+Developed a variant of the paper [Finding Deceptive Opinion Spam by Any Stretch of the Imagination](https://arxiv.org/abs/1107.4557) for my [Data Mining course project](https://riccardocampanella.github.io/rc-homepage/portfolio/mega_dm_decptive_spam/).
 
 Reproduced the paper [Glove](https://nlp.stanford.edu/pubs/glove.pdf) and validated the learned embeddings through their similarity. Feel free to look at my specific [portfolio entry](https://riccardocampanella.github.io/rc-homepage/portfolio/mlhvl_glove/).
 

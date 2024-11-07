@@ -29,8 +29,8 @@ The dataset consists of 800 hotel reviews divided equally into truthful and dece
 3. **Training and Hyperparameter Tuning**:
    - Training conducted on Folds 1-4 (640 reviews) with Fold 5 (160 reviews) held out for testing.
    - Cross-validation and out-of-bag evaluation (for Random Forest) used for tuning key hyperparameters, such as:
-      - Regularization parameter \(\lambda\) (or \(C = \frac{1}{\lambda}\)) for Logistic Regression.
-      - Cost-complexity pruning parameter (\(\alpha\)) for Decision Trees.
+      - Regularization parameter lambda for Logistic Regression.
+      - Cost-complexity pruning parameter alpha for Decision Trees.
       - Number of trees and feature selection strategy for Random Forests.
       - Number of features for Multinomial Naive Bayes.
 
