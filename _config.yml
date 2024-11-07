@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Riccardo's homepage"
 title_separator          : "-"
 name                     : &name "Riccardo Campanella"
 description              : &description "I am an AI Master's student passionate about learning to program machines and developing human-centered algorithms"
