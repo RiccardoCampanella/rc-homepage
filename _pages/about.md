@@ -22,18 +22,18 @@ I have experience contributing to [Predictive troubleshooting for medical device
 I worked for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
 
 ## 📜 Reimplementing and Reproducing Papers
-# Natural Language Processing
+### Natural Language Processing
 Developed a variant of the paper [Finding Deceptive Opinion Spam by Any Stretch of the Imagination](https://arxiv.org/abs/1107.4557) for my [Data Mining course project](https://riccardocampanella.github.io/rc-homepage/portfolio/mega_dm_decptive_spam/).
 
 Reproduced the paper [Glove](https://nlp.stanford.edu/pubs/glove.pdf) and validated the learned embeddings through their similarity. Feel free to look at my specific [portfolio entry](https://riccardocampanella.github.io/rc-homepage/portfolio/mlhvl_glove/).
 
-# Computer Vision
+### Computer Vision
 Developed a small-scale variant of the paper [Two Stream Neural Networks](https://arxiv.org/abs/1406.2199) for my project [Action Recognition in videos](https://riccardocampanella.github.io/rc-homepage/portfolio/action_recognition/).
 
-# Medical Deep Learning
+### Medical Deep Learning
 Implemented a small-scale variant of the paper [Deep brain state classification of MEG data](https://arxiv.org/abs/2007.00897) for my project [MEG Data Analysis using Deep Learning](https://riccardocampanella.github.io/rc-homepage/portfolio/meg_classification/).
 
-# Computational Neuroscience
+### Computational Neuroscience
 I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://riccardocampanella.github.io/rc-homepage/portfolio/ccss_neuroscience/) taught by the PhD D.Avitabile at the Utrecht University. 
 
 ## 👨🏻‍🔬 Professional Experience
