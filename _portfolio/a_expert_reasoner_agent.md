@@ -35,9 +35,13 @@ This project presents the ERA agent, an AI-powered system designed to verify the
 
 ---
 
-## Overview
+## Abstract
 
-The **Expert Reasoner Agent (ERA)** is an AI-powered fake news detection system designed to analyze news headlines, provide verdicts on their truthfulness, and generate supporting arguments. ERA integrates trusted ontological knowledge with insights from a large language model (LLM) to balance reliability with breadth, ensuring robust and transparent decision-making.
+This project presents the **Expert Reasoner Agent (ERA)**, an AI-powered system designed to verify the truthfulness of news headlines and generate supporting arguments. ERA combines a trusted ontology with a large language model (LLM) to provide a robust and comprehensive framework for evidence gathering, reasoning, and decision-making. By leveraging both structured ontological knowledge and the broad capabilities of the LLM, ERA ensures reliability while maintaining the flexibility to handle a wide range of topics.
+
+The ERA system employs sophisticated state-management techniques to process user-submitted news statements through various stages, including input processing, information gathering, and reasoning. It uses structured queries to extract relevant data from the ontology, while also interacting with the LLM to generate and assess arguments for and against the statement. By integrating these two sources of information, ERA delivers reliable verdicts, accompanied by a confidence score that reflects the strength and consistency of the evidence.
+
+Through its goal-oriented design, ERA not only aims to provide accurate fact-checking but also offers transparency by presenting both supporting and opposing arguments. This dual-source approach fosters a more nuanced and explainable decision-making process, making ERA a valuable tool in the fight against misinformation.
 
 ---
 
