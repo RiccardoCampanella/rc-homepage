@@ -18,7 +18,7 @@ This project presents the ERA agent, an AI-powered system designed to verify the
 ## Demo and Resources
 
 ### Poster
-[![Project Poster](https://riccardocampanella.github.io/rc-homepage/images/ERA_Agent_poster.jpg)](https://riccardocampanella.github.io/rc-homepage/files/Intelligent_Agents_Final_Poster.pdf)
+[![Project Poster](https://riccardocampanella.github.io/rc-homepage/images/IntelligentAgents-Poster.png)](https://riccardocampanella.github.io/rc-homepage/files/Intelligent_Agents_Final_Poster.pdf)
 
 [Download Project Poster (PDF)](https://riccardocampanella.github.io/rc-homepage/files/Intelligent_Agents_Final_Poster.pdf)
 
