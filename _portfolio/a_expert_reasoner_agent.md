@@ -1,5 +1,5 @@
 ---
-title: "ERA Agent: A Fact-Checking AI"
+title: "ERA: A Goal-Based Agent Integrating LLMs and Ontology for Fake News Detection"
 excerpt: "Analyzing the ERA agent's architecture, functionalities, and its applications in determining the veracity of news headlines"
 tags: [AI, Fact-Checking, Ontology, LargeLanguageModels, Explainability, NewsVerification]
 collection: portfolio
