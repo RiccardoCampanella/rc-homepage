@@ -48,6 +48,7 @@ Parsing is a fundamental task in computational linguistics, enabling syntactic a
 - **CKY Algorithm**: Demonstrated better efficiency with clear advantages in parsing longer sentences due to its bottom-up approach.
 
 ### Comparative Analysis
+
 | **Algorithm**   | **Strengths**                                   | **Limitations**                                       |
 |------------------|------------------------------------------------|------------------------------------------------------|
 | **Viterbi**      | Finds the most probable parse tree.            | Computationally intensive for large grammars.        |
@@ -76,6 +77,6 @@ The comparative study of Viterbi and CKY algorithms highlights their respective 
 
 ---
 ## Resources
-- **Code Repository**: [https://github.com/RiccardoCampanella/Natural_Language_Processing/blob/main/VIterbi_CKY.ipynb]
-- **References**: (Viterbi Algorithm)[https://www2.isye.gatech.edu/~yxie77/ece587/viterbi_algorithm.pdf]
+- **Code Repository**: [Viterbi and CKY](https://github.com/RiccardoCampanella/Natural_Language_Processing/blob/main/VIterbi_CKY.ipynb)
+- **References**: [Viterbi Algorithm Paper](https://www2.isye.gatech.edu/~yxie77/ece587/viterbi_algorithm.pdf)
 ---

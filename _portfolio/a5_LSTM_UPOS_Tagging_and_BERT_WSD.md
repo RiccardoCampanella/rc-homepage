@@ -53,6 +53,7 @@ Natural language understanding tasks often rely on accurate linguistic annotatio
 - Contextual representation of polysemous words was a significant advantage, with fewer errors for closely related senses.
 
 ### Comparison
+
 | Task            | Model  | Accuracy | Observations                                                                 |
 |------------------|--------|----------|------------------------------------------------------------------------------|
 | **UPOS Tagging** | LSTM   | 95%      | Effective for syntactic annotation but limited in capturing semantic nuances.|
