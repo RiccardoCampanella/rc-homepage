@@ -82,6 +82,5 @@ This study highlights the trade-offs in selecting n-gram sizes for language mode
 
 ---
 ## Resources
-- **Code Repository**: [GitHub Repository Link]
-- **References**: Statistical language modeling and perplexity evaluation papers
+- **Code Repository**: [https://github.com/RiccardoCampanella/Natural_Language_Processing/blob/main/Ngrams_Perplexity.ipynb]
 ---
