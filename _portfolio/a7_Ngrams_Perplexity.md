@@ -45,6 +45,7 @@ Language modeling is essential for understanding and predicting text sequences i
 ## Results
 
 ### Perplexity Analysis
+
 | **Model**      | **Perplexity (Test Set)** |
 |-----------------|--------------------------|
 | Unigram (n=1)  | 892.45                   |
