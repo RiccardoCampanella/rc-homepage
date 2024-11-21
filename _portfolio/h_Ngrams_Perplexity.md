@@ -33,10 +33,14 @@ Language modeling is essential for understanding and predicting text sequences i
 - Additive (Laplace) smoothing was applied to address zero-probability issues for unseen word sequences.
 
 ### Perplexity
-- **Definition**: Perplexity measures how well a language model predicts a test set:
+
+- **Definition**: 
+Perplexity measures how well a language model predicts a test set:
+
   \[
   PP = 2^{-\frac{1}{N} \sum_{i=1}^N \log_2 P(w_i | w_{i-n+1}, ..., w_{i-1})}
   \]
+  
 - Lower perplexity indicates a better model fit to the test data.
 
 ### Implementation
