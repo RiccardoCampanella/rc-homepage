@@ -1,5 +1,5 @@
 ---
-title: "Opinion Spam Detection using Machine Learning"
+title: "(NLP) Opinion Spam Detection using Machine Learning"
 excerpt: "A study on classifying deceptive reviews using Naive Bayes, Logistic Regression, Decision Trees, and Random Forests"
 tags: [OpinionSpam, TextClassification, NaturalLanguageProcessing, SupervisedLearning, FeatureEngineering, MachineLearning, DeceptionDetection]
 collection: portfolio

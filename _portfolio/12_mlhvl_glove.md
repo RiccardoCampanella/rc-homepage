@@ -1,5 +1,5 @@
 ---
-title: "Glove"
+title: "(NLP) Glove"
 excerpt: "Implementation of small scale variant of the paper GloVe"
 collection: portfolio
 ---
