@@ -27,6 +27,10 @@ Developed a variant of the paper [Finding Deceptive Opinion Spam by Any Stretch 
 
 Reproduced the paper [Glove](https://nlp.stanford.edu/pubs/glove.pdf) and validated the learned embeddings through their similarity. Feel free to look at my specific [portfolio entry](https://riccardocampanella.github.io/rc-homepage/portfolio/mlhvl_glove/).
 
+In the project [Probing BERT: Understanding Language Model Behavior](https://riccardocampanella.github.io/rc-homepage/portfolio/c_Probing_BERT/), the counterfactual conditionals tests are dapted from the paper [Counterfactual reasoning](https://aclanthology.org/2023.acl-short.70.pdf): Testing language models’ understanding of hypothetical scenarios. This work focused on evaluating how BERT-based models reason about hypothetical scenarios, contributing to a deeper understanding of language model behavior in processing counterfactual information.
+
+In the project [Exploring Parsing Algorithms: Viterbi and CKY](https://riccardocampanella.github.io/rc-homepage/portfolio/g_Viterbi_CKY/) I have implemented the CKY Algorithm from the paper [The Viterbi Algorithm](https://www2.isye.gatech.edu/~yxie77/ece587/viterbi_algorithm.pdf)
+
 ### Computer Vision
 Developed a small-scale variant of the paper [Two Stream Neural Networks](https://arxiv.org/abs/1406.2199) for my project [Action Recognition in videos](https://riccardocampanella.github.io/rc-homepage/portfolio/action_recognition/).
 
@@ -41,11 +45,11 @@ I have professional experience working as **Software Engineer** for a Japanese i
 I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
 
 ## 🤝 Groups and Activities
+I have joined the **AI Safety Group** in the Netherlands and, after completing the course [AI Safety Foundamentals](https://aisafetyfundamentals.com/alignment/) (2023 and 2024), I'm interested in working on the Alignment problems, whether it is about goal misgeneralization, reward mispecification, interpretability or privacy issues. In the final project for the 2023 cohort of AISF I have successfully showed how a DQN agent learns to play a game and misgeneralizes by carrying a misaligned behaviour using proxy features to achieve its goal.
+
 I have participated in the workshop [The numerical brain: forward and inverse problems in neuroscience applications](https://www.amsterdam-dynamics.nl/the-numerical-brain/) at the Masterdam Vrije University. (21-23 October 2024)
 
 To learn more about Supercomputers and I have participated in the [Supercomputing course](https://eurocc-netherlands.nl/) where I have done practical exercises on the Dutch national supercomputer Snellius. (October 2024)
-
-I have joined the AI Safety Group in the Netherlands and, after completing the course [AI Safety Foundamentals](https://aisafetyfundamentals.com/alignment/) (2023 and 2024), I'm interested in working on the Alignment problems, whether it is about goal misgeneralization, reward mispecification, interpretability or privacy issues. In the final project for the 2023 cohort of AISF I have successfully showed how a DQN agent learns to play a game and misgeneralizes by carrying a misaligned behaviour using proxy features to achieve its goal.
 
 I have participated in the [Buddy Programme](https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/great-buddies) proposed by the Graduate School of Natural Science because I believe it's important to socialize, challenge our ideas, and promote diverse thinking.
 
