@@ -123,5 +123,5 @@ The ongoing debate between symbolic and subsymbolic approaches highlights the ne
 
 ## Resources
 
-- **References**: [Compositional Structures in Neural Embeddings and Interaction Decompositions](https://arxiv.org/html/2407.08934v1)
+- **References**: [Compositional Structures in Neural Embeddings and Interaction Decompositions](https://arxiv.org/html/2407.08934v1), [Deep Learning a Critical Appraisal](https://arxiv.org/abs/1801.00631), [Deep Learning is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-238440/), [What AI Can Tell Us About Human Intelligence](https://www.noemamag.com/what-ai-can-tell-us-about-intelligence/), [Deep Learning Alone Isn't Getting Us To Human-Like AI](https://www.noemamag.com/deep-learning-alone-isnt-getting-us-to-human-like-ai/)
 - **Course**: Philosophy of AI
