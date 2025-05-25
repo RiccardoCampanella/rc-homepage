@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 Currently pursuing my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with cutting-edge AI research to tackle real-world challenges. My focus lies in developing human-centered algorithms through machine learning and deep learning techniques, aiming to create solutions that make a meaningful impact on society.
+👨🏻‍💻 Currently pursuing my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with cutting-edge AI research to tackle real-world challenges. My focus lies preemptive detection and monitoring of dangeorus AI capabilities that arise from misalignment, aiming to create solutions that make a meaningful impact on society. In particular, I am interested in understanding LLM reasoning mechanisms such as in Chain-of-thought monitoring or enhancing them in the latent space as in Chain of Continuous Thoughts. 
 
 🔬 As I advance through my second year, I'm particularly excited about defining my Master's thesis project for Winter 2024, which will allow me to further explore the intersection of AI and societal benefit.
 
@@ -17,6 +17,10 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Challenges
+I am working as independent researcher for the AI Safety Camp 
+
+I have implemented an [LLM Agent for predicting salary, rent and subscription trends](https://www.linkedin.com/feed/update/urn:li:activity:7325902005418246155/) using logistic regression and LLama3-70B via Nvidia’s API. I guided my team in delivering a working prototype within 24 hours, resulting in a top 3 project by popular vote.
+
 I have experience contributing to [Predictive troubleshooting for medical devices](https://eit-innovaid.eu/hackathon-challenge-d-predicting-troubleshooting-for-medical-devices/), an hackathon project at the Utrecht Medical Center, for preventing infusion pumps from breaking using NLP with Neural approaches. Feel free to look at my [post](https://www.linkedin.com/posts/riccardo-campanella_taking-part-in-my-first-hackathon-organized-activity-7134492518687092736-duVi?utm_source=share&utm_medium=member_desktop) about it.
 
 I worked for Improving Water level prediction using Exogenous variables and Neural Networks as part of an [AI4LS2](https://taikai.network/en/gradient0/hackathons/AI4LS2), a large hackathon project, proposed by the University of Vienna. 
