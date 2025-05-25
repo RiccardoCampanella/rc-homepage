@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 Currently pursuing my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with cutting-edge AI research to tackle real-world challenges. My focus lies preemptive detection and monitoring of dangeorus AI capabilities that arise from misalignment, aiming to create solutions that make a meaningful impact on society. In particular, I am interested in understanding LLM reasoning mechanisms such as in Chain-of-thought monitoring or enhancing them in the latent space as in Chain of Continuous Thoughts. 
+👨🏻‍💻 Currently pursuing my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with cutting-edge AI research to tackle real-world challenges. For this reason, I am working with MLLMs to help streamline the building energy retrofit process, which can save energy and promote sustainable living.
 
-🔬 As I advance through my second year, I'm particularly excited about defining my Master's thesis project for Winter 2024, which will allow me to further explore the intersection of AI and societal benefit.
+🔬 As I advance through my second year, I'm particularly excited about preemptive detection and monitoring of dangerous AI capabilities that arise from misalignment, aiming to create solutions that make a meaningful impact on society. In particular, I am interested in understanding LLM reasoning mechanisms such as Chain-of-Thought monitoring or enhancing them in the latent space as in Chain of Continuous Thoughts.
 
-📚 My journey from software engineering to AI has been driven by a profound belief in technology's potential to transform lives. Through my research and development work, I strive to bridge the gap between complex technical solutions and human needs, ensuring that AI serves as a force for positive change
+📚 My journey from software engineering to AI has been driven by a profound belief in technology's potential to transform lives. Through my research and development work, I strive to bridge the gap between complex technical solutions and human needs, ensuring that AI serves as a force for positive change.
 
 # Selected Experience
 
