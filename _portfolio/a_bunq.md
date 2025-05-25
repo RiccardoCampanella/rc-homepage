@@ -11,17 +11,11 @@ collection: portfolio
 
 ### Project Overview
 
-We just wrapped up an intense 24-hour AI hackathon with **bunq**, and I’m thrilled to share that our team placed in the **Top 3 by popular vote**! 🚀
-
-Over one sleepless day (and plenty of ☕️), we built an intelligent agent on top of the **bunq API** that transforms raw transaction data into **actionable, year-ahead financial insights**:
+The project consists in an intelligent agent built on top of the **bunq API** that transforms raw transaction data into **actionable, year-ahead financial insights**:
 
 - **Trend Prediction:** Using customer transactions, we trained a logistic regression model to forecast personalized rent, salary, and subscription patterns.
 - **Contextual Validation:** Our agent performs web searches to compare in-house trends against global market trajectories, ranking and delivering informed expense projections.
 - **Data-Driven Discoveries:** We uncovered how deeply insightful banking data can be—especially when enriched with **geolocation data**, sparking conversations on personalization and privacy.
-
-As a fun bonus, we added a **meme generator** that turns transaction summaries into tailor-made memes, making financial habits more visible and engaging for younger audiences. 😄📈
-
-Huge thanks to the **bunq tech team** and my amazing teammates: Shang-Jen Wang, Tom Slik, Aryan Omkar Ashar—and of course bunq!
 
 ---
 

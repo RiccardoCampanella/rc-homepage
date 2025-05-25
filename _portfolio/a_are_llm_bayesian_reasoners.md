@@ -5,8 +5,6 @@ tags: [AI, BayesianInference, LanguageModels, CognitiveModeling, Epistemology, M
 collection: research
 ---
 
-## Are LLM Belief Updates Consistent with Bayes’ Theorem?
-
 ### 🔗 [Read the full paper on OpenReview](https://openreview.net/forum?id=Bki9T98mfr)
 
 ---
