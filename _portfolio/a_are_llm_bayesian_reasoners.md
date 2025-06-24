@@ -1,7 +1,7 @@
 ---
 title: "Are LLM Belief Updates Consistent with Bayes’ Theorem?"
 excerpt: "This paper evaluates whether large language models (LLMs) update their beliefs over propositions in a Bayesian-consistent manner as they scale in size and capability."
-tags: [AI, BayesianInference, LanguageModels, CognitiveModeling, Epistemology, MachineLearning]
+tags: [AI, BayesianInference, LanguageModels, CognitiveModeling, Epistemology, MachineLearning, Coherence, Consistency checks, Language Models, LLMs, Bayes' theorem]
 collection: research
 ---
 
