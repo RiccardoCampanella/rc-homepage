@@ -1,7 +1,7 @@
-# main links links
+# main links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /_portfolio/a_are_llm_bayesian_reasoners.md
         
   #- title: "Blog Posts"
   #  url: /year-archive/
