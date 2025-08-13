@@ -15,7 +15,7 @@ In this exploratory work, we investigate the spatial reasoning capabilities of s
 ## Thesis Presentation (PDF)
 
 <iframe 
-    src="files/Master_Thesis_Presentation_Riccardo_Campanella_8175721.pdf" 
+    src="https://riccardocampanella.github.io/rc-homepage/files/Master_Thesis_Presentation_Riccardo_Campanella_8175721.pdf" 
     frameborder="0" 
     width="100%" 
     height="800px" 

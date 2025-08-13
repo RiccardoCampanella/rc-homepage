@@ -49,7 +49,7 @@ Implemented a small-scale variant of the paper [Deep brain state classification 
 I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://riccardocampanella.github.io/rc-homepage/portfolio/ccss_neuroscience/) taught by the PhD D.Avitabile at the Utrecht University. 
 
 ## 👨🏻‍🔬 Professional Experience
-[![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/ProfessionalJourney.png)]
+[Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/ProfessionalJourney.png)
 
 I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
 I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
