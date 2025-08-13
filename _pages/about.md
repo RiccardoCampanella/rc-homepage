@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 Currently pursuing my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with cutting-edge AI research to tackle real-world challenges. For this reason, I am working with MLLMs to help streamline the building energy retrofit process, which can save energy and promote sustainable living.
+👨🏻‍💻 Recenlty pursued my Master's in Artificial Intelligence at Utrecht University, I combine my software engineering background with SoTA AI research to tackle real-world challenges. For this reason, I am working with MLLMs to help streamline the building energy retrofit process, which can save energy and promote sustainable living.
 
-🔬 As I advance through my second year, I'm particularly excited about preemptive detection and monitoring of dangerous AI capabilities that arise from misalignment, aiming to create solutions that make a meaningful impact on society. In particular, I am interested in understanding LLM reasoning mechanisms such as Chain-of-Thought monitoring or enhancing them in the latent space as in Chain of Continuous Thoughts.
+🔬 As I advance through my second year of AI projects, I'm particularly excited about preemptive detection and monitoring of dangerous AI capabilities that arise from misalignment, aiming to create solutions that make a meaningful impact on society. In particular, I am interested in understanding LLM reasoning mechanisms such as Chain-of-Thought monitoring or enhancing them in the latent space as in Chain of Continuous Thoughts.
 
 📚 My journey from software engineering to AI has been driven by a profound belief in technology's potential to transform lives. Through my research and development work, I strive to bridge the gap between complex technical solutions and human needs, ensuring that AI serves as a force for positive change.
+
+# My effort on LLM Reasoning for AI Alignment
+
+[Here the timeline of works]
 
 # Selected Experience
 
 ## 🤖 Challenges
-I am working as independent researcher for the AI Safety Camp where I Co-authored a paper about [Bayesian Reasoning](https://openreview.net/forum?id=Bki9T98mfr&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FWorld_Models%2FAuthors%23your-submissions)) Elicitation in SoTA LLMs using prompt engineering.
+I am working as independent researcher for the AI Safety Camp where I Co-authored a paper about [Bayesian Reasoning](https://arxiv.org/abs/2507.17951) Elicitation in SoTA LLMs using prompt engineering.
 
 I have implemented an [LLM Agent for predicting salary, rent and subscription trends](https://www.linkedin.com/feed/update/urn:li:activity:7325902005418246155/) using logistic regression and LLama3-70B via Nvidia’s API. I guided my team in delivering a working prototype within 24 hours, resulting in a top 3 project by popular vote.
 
@@ -45,13 +49,15 @@ Implemented a small-scale variant of the paper [Deep brain state classification 
 I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://riccardocampanella.github.io/rc-homepage/portfolio/ccss_neuroscience/) taught by the PhD D.Avitabile at the Utrecht University. 
 
 ## 👨🏻‍🔬 Professional Experience
+[![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/ProfessionalJourney.png)]
+
 I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
 I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
 
 ## 🤝 Groups and Activities
 I have joined the **AI Safety Group** in the Netherlands and, after completing the course [AI Safety Foundamentals](https://aisafetyfundamentals.com/alignment/) (2023 and 2024), I'm interested in working on the Alignment problems, whether it is about goal misgeneralization, reward mispecification, interpretability or privacy issues. In the final project for the 2023 cohort of AISF I have successfully showed how a DQN agent learns to play a game and misgeneralizes by carrying a misaligned behaviour using proxy features to achieve its goal.
 
-I have participated in the workshop [The numerical brain: forward and inverse problems in neuroscience applications](https://www.amsterdam-dynamics.nl/the-numerical-brain/) at the Masterdam Vrije University. (21-23 October 2024)
+I have participated in the workshop [The numerical brain: forward and inverse problems in neuroscience applications](https://www.amsterdam-dynamics.nl/the-numerical-brain/) at the Amsterdam Vrije University. (21-23 October 2024)
 
 To learn more about Supercomputers and I have participated in the [Supercomputing course](https://eurocc-netherlands.nl/) where I have done practical exercises on the Dutch national supercomputer Snellius. (October 2024)
 

@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2025-06-10-Are-LLM-Belief-Updates-Consistent-with-Bayes’-Theorem
 excerpt: 'This paper evaluates whether large language models (LLMs) update their beliefs over propositions in a Bayesian-consistent manner as they scale in size and capability.'
 date: 2025-06-10
-venue: 'ICML 2025 Workshop on Assessing World Models.'
+venue: 'Under review @AAAI, Accepted @ICML 2025 Workshop on Assessing World Models'
 slidesurl: 'https://riccardocampanella.github.io/rc-homepage/portfolio/a_are_llm_bayesian_reasoners/'
-paperurl: 'https://openreview.net/pdf?id=Bki9T98mfr'
+paperurl: 'https://www.arxiv.org/abs/2507.17951'
 citation: 'Sohaib Imran, Ihor Kendiukhov, Matthew Broerman, Aditya Thomas, Riccardo Campanella, Rob Lamb, Peter M. Atkinson.'
 ---
 

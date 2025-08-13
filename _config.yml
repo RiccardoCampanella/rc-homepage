@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Riccardo's homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Riccardo Campanella"
 description              : &description "I am an AI Master's student passionate about learning to program machines and developing human-centered algorithms"
@@ -24,20 +24,20 @@ author:
   avatar           : "avatar_sea.png"
   name             : "Riccardo Campanella"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning and Deep Learning"
+  bio              : "LLM and RL for AI Alignment"
   location         : "Utrecht, Netherlands"
   employer         : "Utrecht University"
   uri              : # URL
   email            : "riccardocampanella.ing@gmail.com" 
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : https://arxiv.org/abs/2507.17951 # URL - Update with the correct link to your profile
+  googlescholar    : https://scholar.google.com/citations?user=PS_CX0AAAAAJ
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Riccardo-Campanella-2/research # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site

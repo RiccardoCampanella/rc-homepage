@@ -5,7 +5,14 @@ tags: [AI, BayesianInference, LanguageModels, CognitiveModeling, Epistemology, M
 collection: research
 ---
 
-### 🔗 [Read the full paper on OpenReview](https://openreview.net/forum?id=Bki9T98mfr)
+### 🔗 [Read the full paper on Arxiv](https://arxiv.org/abs/2507.17951)
+
+---
+
+## Workshop Poster
+[![Project Poster](https://riccardocampanella.github.io/rc-homepage/images/Poster.jpg)](https://riccardocampanella.github.io/rc-homepage/files/AISCPoster.pdf)
+
+[Download Project Poster (PDF)](https://riccardocampanella.github.io/rc-homepage/files/Intelligent_Agents_Final_Poster.pdf)
 
 ---
 

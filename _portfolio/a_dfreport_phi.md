@@ -5,10 +5,6 @@ tags: [AI, CommonsenseReasoning, MechanisticInterpretability, CognitiveScience, 
 collection: portfolio
 ---
 
-## Testing Machine Intelligence: An Internal Interpretation of Commonsense Reasoning
-
----
-
 ## Abstract
 
 This study investigates commonsense reasoning as a key feature of Artificial General Intelligence (AGI) and critiques traditional testing methodologies like the Turing Test and the Winograd Schema Challenge (WSC). It proposes **mechanistic interpretability** as an internal evaluation approach to assess AI's reasoning capabilities. Mechanistic interpretability provides insights into the internal workings of models, enabling a more precise assessment of their ability to reason, adapt, and generalize knowledge.
