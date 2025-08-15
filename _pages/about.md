@@ -16,7 +16,7 @@ redirect_from:
 
 # My effort on LLM Reasoning for AI Alignment
 
-[Here the timeline of works]
+[![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/studies_timeline.png)](https://riccardocampanella.github.io/rc-homepage/files/studies_timeline.pdf)
 
 # Selected Experience
 
