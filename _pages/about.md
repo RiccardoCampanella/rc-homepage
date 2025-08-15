@@ -21,7 +21,7 @@ redirect_from:
 # Selected Experience
 
 ## 🤖 Challenges
-I am working as independent researcher for the AI Safety Camp where I Co-authored a paper about [Bayesian Reasoning](https://arxiv.org/abs/2507.17951) Elicitation in SoTA LLMs using prompt engineering.
+I am working as independent researcher for the AI Safety Camp where I Co-authored a paper about [Bayesian Reasoning](https://arxiv.org/abs/2507.17951) Elicitation in SoTA LLMs using prompt engineering. The study introduces a new evaluation metric, BCE, for assessing model reasoning and alignment through a Bayesian lens.
 
 I have implemented an [LLM Agent for predicting salary, rent and subscription trends](https://www.linkedin.com/feed/update/urn:li:activity:7325902005418246155/) using logistic regression and LLama3-70B via Nvidia’s API. I guided my team in delivering a working prototype within 24 hours, resulting in a top 3 project by popular vote.
 
