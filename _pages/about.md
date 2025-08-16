@@ -14,11 +14,18 @@ redirect_from:
 
 📚 My journey from software engineering to AI has been driven by a profound belief in technology's potential to transform lives. Through my research and development work, I strive to bridge the gap between complex technical solutions and human needs, ensuring that AI serves as a force for positive change.
 
-# My effort on LLM Reasoning for AI Alignment
+# Selected Experience
+
+## 👨🏻‍🔬 Professional Experience
+[![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/ProfessionalJourney.png)](https://riccardocampanella.github.io/rc-homepage/files/ProfessionalJourney.pdf)
+
+
+I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
+I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
+
+## My effort on LLM Reasoning for AI Alignment
 
 [![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/studies_timeline.png)](https://riccardocampanella.github.io/rc-homepage/files/studies_timeline.pdf)
-
-# Selected Experience
 
 ## 🤖 Challenges
 I am working as independent researcher for the AI Safety Camp where I Co-authored a paper about [Bayesian Reasoning](https://arxiv.org/abs/2507.17951) Elicitation in SoTA LLMs using prompt engineering. The study introduces a new evaluation metric, BCE, for assessing model reasoning and alignment through a Bayesian lens.
@@ -47,13 +54,6 @@ Implemented a small-scale variant of the paper [Deep brain state classification 
 
 ### Computational Neuroscience
 I have implemented the tutorials from the masterclass [Numerical and Analytical methods for spatially-extended neurobiological networks](https://riccardocampanella.github.io/rc-homepage/portfolio/ccss_neuroscience/) taught by the PhD D.Avitabile at the Utrecht University. 
-
-## 👨🏻‍🔬 Professional Experience
-[![Professional Experience](https://riccardocampanella.github.io/rc-homepage/images/ProfessionalJourney.png)](https://riccardocampanella.github.io/rc-homepage/files/ProfessionalJourney.pdf)
-
-
-I have professional experience working as **Software Engineer** for a Japanese international company and United Arab Emirates' startup after graduating from my Bachelor.
-I mainly worked to solve AI challenges and developed components for IT, Fintech and Booking companies.  
 
 ## 🤝 Groups and Activities
 I have joined the **AI Safety Group** in the Netherlands and, after completing the course [AI Safety Foundamentals](https://aisafetyfundamentals.com/alignment/) (2023 and 2024), I'm interested in working on the Alignment problems, whether it is about goal misgeneralization, reward mispecification, interpretability or privacy issues. In the final project for the 2023 cohort of AISF I have successfully showed how a DQN agent learns to play a game and misgeneralizes by carrying a misaligned behaviour using proxy features to achieve its goal.
