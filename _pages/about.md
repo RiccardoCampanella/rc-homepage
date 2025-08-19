@@ -64,3 +64,5 @@ To learn more about Supercomputers and I have participated in the [Supercomputin
 
 I have participated in the [Buddy Programme](https://www.uu.nl/en/organisation/graduate-school-of-natural-sciences/great-buddies) proposed by the Graduate School of Natural Science because I believe it's important to socialize, challenge our ideas, and promote diverse thinking.
 
+## Tags
+`#MultimodalLLMs` `#LLMFineTuning` `#ChainOfThought` `#VisionLanguageModels` `#PyTorch` `#DeepLearning` `#OpenAIAPI` `#PromptEngineering` `#AzureML` `#ComputerVision` `#OpenCV` `#Transformers` `#AttentionMechanism` `#ReinforcementLearning` `#TensorFlow` `#WeightsAndBiases` `#HallucinationReduction` `#FewShotLearning` `#SpatialReasoning` `#DomainAdaptation` `#ScikitLearn` `#ZeroShotDetection` `#ModelEvaluation` `#Django` `#RESTAPI` `#Docker` `#DevOps` `#SyntheticData` `#3DSceneUnderstanding` `#TestTimeComputation` `#MechanisticInterpretability` `#CausalInference` `#ScalingLaws` `#AISafety` `#AIAlignment` `#BlockchainDevelopment`
