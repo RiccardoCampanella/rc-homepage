@@ -9,6 +9,9 @@ collection: portfolio
 
 In this exploratory work, we investigate the spatial reasoning capabilities of state-of-the-art Multimodal Large Language Models (MLLMs) in the context of building renovation. We evaluate models with different capacities, including GPT-4o, Qwen, Mulberry, and SpatialRGPT on a few-shot dataset of Dutch residential buildings, assessing their performance in visual reasoning tasks. To this end, we propose DuTCh Space, a novel application of Chain-of-Thought Distillation consisting of a Dual-Teacher Framework that leverages both step-by-step rationales and scene graph description augmentation to guide and assess student models' performance on spatial reasoning. This structured supervision enables iterative refinement of spatial reasoning through domain-task decomposition and scene understanding. Additionally, we integrate Monte Carlo Tree Search at inference time to improve reasoning-path selection under visual uncertainty. By combining distillation and MCTS, we observe a measurable reduction in hallucinations, with models generating more grounded and verifiable predictions. Our findings demonstrate that reasoning-enhanced models can compensate for limited visual grounding even without scene graph augmentation, offering a scalable path toward spatially-aware MLLMs in low-resource, domain-specific settings
 
+--
+
+## 🔗 [Live Demo: Results](https://riccardocampanella.github.io/mllm_spatial_reasoning/)
 
 ---
 
