@@ -1,7 +1,7 @@
 ---
 title: "Spatial Reasoning in Multimodal LLMs via CoT Distillation and Monte Carlo Tree Search for Dutch Facade-Element Detection"
-excerpt: "Exploring spatial reasoning capabilities in state-of-the-art Multimodal LLMs for Dutch building renovation, introducing the DuTCh SpaCE framework to enhance reasoning and reduce hallucinations."
-tags: [AI, MultimodalLLM, SpatialReasoning, CoT, MonteCarloTreeSearch, DutchArchitecture, BuildingRenovation, LoRA, KnowledgeDistillation]
+excerpt: "Exploring agentic spatial reasoning in state-of-the-art Multimodal LLMs for Dutch building renovation, introducing DuTCh SpaCE to enhance step-by-step reasoning, self-correction, and reduce hallucinations."
+tags: [AI, MultimodalLLM, SpatialReasoning, CoT, MonteCarloTreeSearch, AgenticAI, DutchArchitecture, BuildingRenovation, LoRA, KnowledgeDistillation]
 collection: portfolio
 ---
 
@@ -33,9 +33,10 @@ In this exploratory work, we investigate the spatial reasoning capabilities of s
 
 This project investigates the potential of **state-of-the-art Multimodal Large Language Models (MLLMs)** to identify architectural features relevant to **energy-efficient building renovation** in Dutch residential facades.
 
-We propose **DuTCh SpaCE** — a **Dual-Teacher Chain-of-Thought Distillation** framework combined with **Monte Carlo Tree Search (CoMCTS)** — to enhance **spatial reasoning** and **reduce hallucinations** in zero-shot and few-shot setups.
+We propose **DuTCh SpaCE** — an **Agentic AI Framework** combining **Dual-Teacher Chain-of-Thought Distillation** with **Monte Carlo Tree Search (CoMCTS)** — enabling AI agents to reason step-by-step, **self-correct**, and improve spatial predictions in zero-shot and few-shot setups.
 
 Our evaluation compares **reasoning-based** and **spatially-grounded** MLLM architectures, exploring their trade-offs in domain-specific visual tasks.
+
 
 ## Motivation
 
@@ -70,9 +71,10 @@ Are SoTA Multimodal LLMs beneficial for identifying housing renovation concepts 
 ## Contributions
 
 1. **First systematic MLLM evaluation** on real Dutch facade data.  
-2. **DuTCh SpaCE**: Dual-teacher CoT distillation to reduce hallucinations.  
-3. **Reasoning vs. grounding** trade-off analysis.  
+2. **DuTCh SpaCE**: **Agentic Dual-Teacher CoT distillation** to reduce hallucinations.  
+3. **Reasoning vs. grounding trade-off analysis**.  
 4. **LoRA + Distillation + Test-time Search** pipeline for low-data domains.  
+5. **Agentic reasoning integration**: enabling AI agents to autonomously generate, critique, and refine reasoning steps collectively.
 
 ---
 
@@ -81,6 +83,7 @@ Are SoTA Multimodal LLMs beneficial for identifying housing renovation concepts 
 - **Models under study**: GPT-4o, SpatialRGPT (base/bbox), Qwen2-7B-VL.  
 - **Data**: 45 curated Dutch facade images with feature annotations (yes/no/unknown/count).  
 - **Evaluation**: Zero-shot + LoRA fine-tuning, 10 runs per config, metrics: Accuracy, Balanced Accuracy, F1, MAE/MSE.  
+- **Agentic inference**: Student LLMs act as autonomous reasoning agents, generating, critiquing, and selecting the most accurate reasoning paths via MCTS.
 
 ---
 
@@ -88,16 +91,16 @@ Are SoTA Multimodal LLMs beneficial for identifying housing renovation concepts 
 
 - GPT-4o leads across metrics.  
 - Bounding box guidance improves SpatialRGPT by **~15%** in accuracy.  
-- DuTCh SpaCE reduces hallucinations significantly.  
+- **DuTCh SpaCE reduces hallucinations significantly through agentic reasoning**.  
 - LoRA fine-tuning narrows GPT-4o gap from 20% to 8%.  
-- Scene graph augmentation yields no improvement for Qwen.  
+- Scene graph augmentation yields no improvement for Qwen.
 
 ---
 
 ## Limitations
 
 - Small dataset (45 images).  
-- Imbalanced feature presence. (Mitigated by Balanced Accuracy Metric in this study) 
+- Imbalanced feature presence (mitigated by Balanced Accuracy Metric).  
 - Scene graph integration underused by some architectures.  
 - Limited test-time search iterations.  
 
@@ -107,12 +110,12 @@ Are SoTA Multimodal LLMs beneficial for identifying housing renovation concepts 
 
 - Scale dataset to **1000+ images** via scraping + filtering.  
 - Fine-tune multimodal encoders for vision grounding.  
-- Increase CoMCTS iterations and diversity.  
+- Increase CoMCTS iterations and diversity for **multi-agent reasoning**.  
 - Explore RLHF strategies, multi-adapter LoRA, grounded CoT, DoRA.
 
 ---
 
 ## Conclusion
 
-MLLMs **are beneficial** for facade analysis when enhanced with reasoning frameworks like DuTCh SpaCE.  
-**Reasoning can compensate** for limited visual grounding, and domain expertise can rival raw model scale.
+MLLMs **are beneficial** for facade analysis when enhanced with **agentic reasoning frameworks** like DuTCh SpaCE.  
+**Agentic reasoning can compensate** for limited visual grounding, allowing domain expertise to rival raw model scale.
