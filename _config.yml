@@ -46,7 +46,7 @@ author:
   github           : "riccardocampanella"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-  HuggingFace      : https://huggingface.co/RiccardoCampa
+  HuggingFace      : "RiccardoCampa"
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
